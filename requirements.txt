@@ -1,0 +1,7 @@
+pandas
+pillow
+matplotlib
+requests
+wordlistenquiry
+base64
+os
